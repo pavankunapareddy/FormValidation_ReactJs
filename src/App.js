@@ -22,7 +22,6 @@ const formValid =  ({formErrors , ...rest }) => {
 };
 
 
-
 class App extends Component{
   constructor(props)
   {
